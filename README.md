@@ -6,7 +6,7 @@ A simple Swift-based iOS Native app that uses the New York Times Most Popular Ar
 
 App Features:
 * Use the Model-View-ViewModel (MVVM) pattern to organize code.
-* Security features such as SSL Pinning and Code Obsfucation are included.
+* Security features such as SSL Pinning and Code Obfuscation are included.
 * Modular Approach - Core Modules are completely separate from generic modules.
 * Leveraged universal UI Feature of auto-layout
 
