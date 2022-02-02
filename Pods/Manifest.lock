@@ -1,0 +1,26 @@
+PODS:
+  - Alamofire (4.9.1)
+  - SVProgressHUD (2.2.5)
+  - SwiftMessages (7.0.1):
+    - SwiftMessages/App (= 7.0.1)
+  - SwiftMessages/App (7.0.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.8)
+  - SVProgressHUD (~> 2.2.5)
+  - SwiftMessages (~> 7.0.1)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - SVProgressHUD
+    - SwiftMessages
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwiftMessages: b577dc7043be8b299857ab35bb663dbff6483bd0
+
+PODFILE CHECKSUM: 9f6d77520c530c8fdc55108f19646326569e2beb
+
+COCOAPODS: 1.11.2
